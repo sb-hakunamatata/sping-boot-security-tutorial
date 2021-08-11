@@ -1,0 +1,8 @@
+11 Configured basic Spring Application and started project.
+12 Configured Security with username admin password admin(OTP) in Application make it work, With Authentication Route.
+13 Configured JWT with Application, returning on Authentication method and using JWT for other requests.
+16 OTP generation for request, Configured InMemory OTP management for now.
+17 AWS SNS integration.
+18 Dockerization.
+19 Deploy on AWS.
+20 Monolithic Interceptor changes.
